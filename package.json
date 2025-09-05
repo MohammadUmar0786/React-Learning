@@ -1,0 +1,24 @@
+{
+  "name": "reactbasic",
+  "version": "1.0.0",
+  "description": "\"Learning React\"",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohammadUmar0786/React-Learning.git"
+  },
+  "author": "Mohammad Umar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohammadUmar0786/React-Learning/issues"
+  },
+  "homepage": "https://github.com/MohammadUmar0786/React-Learning#readme",
+  "dependencies": {
+    "parcel": "^2.15.4",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
